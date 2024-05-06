@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vwRnHIou0mK56t+XWANWkSvtssvc+cH1pwC9IyNygP8d4u+H37UuqBWyTMWzkNoLZYJiqegNh3uM7pw+GNwmTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Dev\\CSharpSeries\\MyGame\\MyGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\raylib-cs\\6.0.0\\raylib-cs.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
